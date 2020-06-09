@@ -1,5 +1,4 @@
-# whatsappclone
-
+# WhatsApp Clone UI Made With Flutter
 A new Flutter application.
 
 ## Getting Started
