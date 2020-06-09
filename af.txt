@@ -1,0 +1,77 @@
+
+
+
+//[
+//
+//   {
+//   "userName":"Jerin",
+//   "userImage":"https://www.pexels.com/photo/adult-beard-boy-casual-220453/",
+//   "subString" : "Where are you",
+//   "time" : "8:19 am"
+//   },
+//
+//   {
+//      "userName":"Emma",
+//      "userImage":"22",
+//      "subString" : "ok",
+//      "time" : "10:50 am"
+//   },
+//
+//   {
+//      "userName":"Noah",
+//      "userImage":"https://images.pexels.com/photos/1043474/pexels-photo-1043474.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+//      "subString" : "We will meet tonight",
+//      "time" : "10:10 am"
+//   },
+//
+//   {
+//      "userName":"Liam",
+//      "userImage":"https://images.pexels.com/photos/594610/pexels-photo-594610.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+//      "subString" : "I have sent the documents please check....",
+//      "time" : "6:05 am"
+//   },
+//
+//   {
+//      "userName":"Sophia",
+//      "userImage":"22",
+//      "subString" : "golf",
+//      "time" : "4:30 am"
+//   },
+//
+//   {
+//      "userName":"Isabella",
+//      "userImage":"22",
+//      "subString" : "I'm busy",
+//      "time" : "1:00 am"
+//   },
+//
+//   {
+//      "userName":"Jacob",
+//      "userImage":"https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+//      "subString" : "Bye",
+//      "time" : "12:19 pm"
+//   },
+//
+//   {
+//      "userName":"William",
+//      "userImage":"https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+//      "subString" : "See you later",
+//      "time" : "5:18 am"
+//   },
+//
+//   {
+//      "userName":"Emily",
+//      "userImage":"22",
+//      "subString" : "Let me know when you are free",
+//      "time" : "10:10 pm"
+//   },
+//
+//   {
+//      "userName":"Daniel",
+//      "userImage":"https://images.pexels.com/photos/839011/pexels-photo-839011.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+//      "subString" : "Yup",
+//      "time" : "3:33 am"
+//   }
+//
+//
+//]
